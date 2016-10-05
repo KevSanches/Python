@@ -59,7 +59,7 @@ O   |
      =========''']
 words = {"Animais": "ant elephant giraffe bat beetle bear camel cat snake coyote crow eagle deer dog duck ass hawk wasp fox sapo goat goose hawk lion lizard llama monkey moose mouse mule pigeon parrot panda python rabbit ram rat owl rhino Sealion salmon shark sheep lazy snake spider swan tiger zebra wolf whale turtle".split(),
          "Frutas": "apple pear pineapple Watermelon orange peach grape".split(),
-         "Countries": "poland germany sweden ukraine brazil portugal spain canada greenland iceland italy france".split()}
+         "Countries": "poland germany sweden ukraine brazil portugal spain canada greenland iceland italy france egypt".split()}
 
 def getrandomword(Dict):
     key=random.choice(list(Dict.keys()))
