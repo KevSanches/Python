@@ -57,9 +57,9 @@ O   |
       / \  |
            |
      =========''']
-words = {"Animais": "formiga elefante girafa morcego urso besouro camelo gato cobra águia coiote corvo veado cachorro burro pato falcão vespa raposa sapo cabra ganso gavião leão lagarto llama macaco alce rato mula coruja panda papagaio pombo python coelho carneiro rato rinoceronte salmão leão-marinho tubarão ovelha preguiça serpente aranha cisne tigre teru tartaruga baleia lobo zebra".split(),
-         "Frutas": "maça pera abacaxi melancia laranja uva pessego".split(),
-         "Estados Brasileiros": "acre alagoas amapa amazonas bahia ceara goias maranhao matogrosso para paraiba parana pernambuco piaui rondonia roraima santacatarina saopaulo sergipe tocantins".split()}
+words = {"Animais": "ant elephant giraffe bat beetle bear camel cat snake coyote crow eagle deer dog duck ass hawk wasp fox sapo goat goose hawk lion lizard llama monkey moose mouse mule pigeon parrot panda python rabbit ram rat owl rhino Sealion salmon shark sheep lazy snake spider swan tiger zebra wolf whale turtle".split(),
+         "Frutas": "apple pear pineapple Watermelon orange peach grape".split(),
+         "Countries": "poland germany sweden ukraine brazil portugal spain canada greenland iceland italy".split()}
 
 def getrandomword(Dict):
     key=random.choice(list(Dict.keys()))
