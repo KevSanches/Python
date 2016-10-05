@@ -1,4 +1,5 @@
 # coding=utf-8
+#Author: Kevin Sanches (kevinsanches@gmail.com)
 import random
 HANGMANPICS = ['''
 
