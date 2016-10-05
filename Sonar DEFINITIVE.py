@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Author: Kevin Sanches (kevinsanches@gmail.com)
+=======
+#Author: Kevin Sanches (kevinsanches@gmail.com
+>>>>>>> 6eda9de3aa6011347ebc90a7a74839f4fddb6a6f
 
 import random
 import sys
