@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Author: Kevin Sanches (kevinsanches@gmail.com)
 
 import random
