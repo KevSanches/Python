@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-#Author: Kevin Sanches (kevinsanches@gmail.com)
+#Author: Kevin Sanches 
+#Email: (kevinsanches@gmail.com)
 
 import random
 import sys
