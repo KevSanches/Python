@@ -1,3 +1,5 @@
+#Author: Kevin Sanches (kevinsanches@gmail.com
+
 import random
 import sys
 maxchests=3
