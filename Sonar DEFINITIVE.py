@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-#Author: Kevin Sanches 
+#Author: KevSanches
 #Email: (kevinsanches@gmail.com)
 
 import random
